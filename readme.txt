@@ -112,7 +112,7 @@ currency.update.duration=60000
 
 Tests
 
-    Unit Tests: Located in src/test/java. Use JUnit 5 and Mockito for testing service and controller layers.
+    Unit Tests: Located in src/test/java. Use JUnit 5 and Mockito for testing the service layer.
     Run Tests:
 
     mvn test
